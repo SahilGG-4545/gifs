@@ -54,6 +54,7 @@ Uses the Canny edge detection algorithm to highlight edges within a grayscale im
   <img src="https://github.com/user-attachments/assets/c26bbde4-a0b7-41a7-9baa-8a92a08e2737" alt="concat" >
 
 #### F) Histogram Equalization
+Improves the contrast of a grayscale image through histogram equalization.
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
