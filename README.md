@@ -78,7 +78,7 @@ Applies opening and closing operations on a grayscale image to minimize noise an
   <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/45331561-a398-42fd-9139-70ab4c96eace" alt="concat" >  <img src="https://github.com/user-attachments/assets/e0b3bd6f-d68d-4dc6-a5bb-8fa263061576" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/0cd0e1c2-b376-436d-9013-76230b042590" alt="concat" >
 
 
 #### I) Image Resizing
@@ -125,6 +125,14 @@ This function performs template matching to locate a template image within a lar
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/375edbaf-4e30-48d0-a8cc-df1348bfe16a" alt="concat" >
+#### N) image_noise_removal & closing_gaps
+Removes noise and closes gaps in an image using morphological operations.
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/45331561-a398-42fd-9139-70ab4c96eace" alt="concat" >  <img src="https://github.com/user-attachments/assets/e0b3bd6f-d68d-4dc6-a5bb-8fa263061576" alt="concat" >
 
 ## Video Processing Project Overview
 
