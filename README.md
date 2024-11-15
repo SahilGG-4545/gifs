@@ -277,17 +277,11 @@ This program uses real-time face recognition to track and record attendance via 
 #### H) atten_score
 This program uses real-time face recognition and head pose analysis to evaluate attentiveness based on yaw and pitch. It saves the details of the recognized face, attentiveness score, and screenshots in an Excel file and a designated folder.
 
-## Features
-1. **Loading Known Face**: Loads a known image and extracts facial encodings for comparison.
-2. **Camera Initialization**: Captures video from the webcam.
-3. **Face Detection and Recognition**: Detects faces in each frame and compares them with the known face encoding. If a match is found, it draws a rectangle around the face and labels it.
-4. **Landmark Detection**: Uses dlib to detect facial landmarks, which are then used to analyze head pose for attentiveness.
-5. **Head Pose Calculation**: Calculates yaw and pitch based on facial landmarks to determine attentiveness.
-6. **Attentiveness Scoring**: Computes an attentiveness score based on the calculated head pose (yaw and pitch). If the score is above a threshold, the user is marked as attentive.
-7. **Screenshot Capture**: Saves a screenshot of the video frame if the person is attentive, stored in the "screenshots" directory.
-8. **Attendance Logging**: Records the recognized face’s name, date, time, attentiveness, and attention score in a DataFrame, which is saved to an Excel file after each session.
-9. **Real-time Display**: Displays the processed video stream with face bounding boxes, attentiveness status, and attention score.
-10. **Termination**: Stops the video feed when the 'q' key is pressed, and any remaining data is saved to the Excel file before the program exits.
+1. **Face Recognition**: Detects and matches faces with a known image.
+2. **Head Pose Analysis**: Calculates yaw and pitch to assess attentiveness.
+3. **Attentiveness Score**: Computes a score based on head pose to determine if the person is attentive.
+4. **Screenshot Capture**: Saves a screenshot if the person is attentive.
+5. **Data Logging**: Records recognition details and attentiveness in an Excel file.
 
 - **Input**:
   <br>
