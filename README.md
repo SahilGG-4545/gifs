@@ -50,6 +50,7 @@ Uses the Canny edge detection algorithm to highlight edges within a grayscale im
 #### F) Histogram Equalization
 Improves the contrast of a grayscale image through histogram equalization.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/2fa2b140-0bc0-441d-bb7c-a27e3139ebc1" alt="concat" >
@@ -57,6 +58,7 @@ Improves the contrast of a grayscale image through histogram equalization.
 #### G) HSV Conversion
 Converts a color image from the BGR format to the HSV color space.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/a870db5e-b6a9-4087-86f5-0df84d317143" alt="concat" >
@@ -64,6 +66,7 @@ Converts a color image from the BGR format to the HSV color space.
 #### H) Morphological Transformations
 Applies opening and closing operations on a grayscale image to minimize noise and fill small gaps.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/45331561-a398-42fd-9139-70ab4c96eace" alt="concat" >  <img src="https://github.com/user-attachments/assets/e0b3bd6f-d68d-4dc6-a5bb-8fa263061576" alt="concat" >
@@ -72,6 +75,7 @@ Applies opening and closing operations on a grayscale image to minimize noise an
 #### I) Image Resizing
 Adjusts the dimensions of an image according to specified width and height.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/9b5c1da2-5b12-4178-b447-fb9462efe1a6" alt="concat" >
@@ -79,6 +83,7 @@ Adjusts the dimensions of an image according to specified width and height.
 #### J) RGB to Grayscale Conversion
 Transforms a color image to a grayscale representation.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/d82d2fc3-3312-4059-a4ae-4a3b28f6260d" alt="concat" >
@@ -86,6 +91,7 @@ Transforms a color image to a grayscale representation.
 #### K) Image Rotation
 Rotates an image 90 degrees around its center point.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/e9856754-fca9-4b09-82fc-02fed03df3d2" alt="concat" >
@@ -93,6 +99,7 @@ Rotates an image 90 degrees around its center point.
 #### L) Image Blurring
 Applies a Gaussian blur to an image to reduce noise and soften details.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/42e5dc7e-fb6c-4fd6-8d65-f7b3f4cb6666" alt="concat" >
@@ -100,6 +107,7 @@ Applies a Gaussian blur to an image to reduce noise and soften details.
 #### M)Template
 This function performs template matching to locate a template image within a larger image.
 - **Input**:
+  <img src="https://github.com/user-attachments/assets/cae52522-3c88-40bb-b9f3-ae8e9714455e" alt="concat" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/375edbaf-4e30-48d0-a8cc-df1348bfe16a" alt="concat" >
