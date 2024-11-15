@@ -9,7 +9,7 @@
 #### A) Image Concatenation
 Resizes two images to a specified pixel range and merges them both horizontally and vertically, displaying the results in separate windows.
 - **Input**:
-- **Output**:
+- **Output**: ![concat](https://github.com/user-attachments/assets/1499a03e-3496-447c-95eb-cb59248586d3)
 
 #### B) Image Contour Detection
 Identifies contours in a grayscale image using a binary threshold and `cv2.findContours()`. Draws these contours on the original image in green.
