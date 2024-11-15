@@ -4,7 +4,7 @@
 - **OpenCV**: Version 4.10.0.84
 - **NumPy**: For array manipulation
 
-### Developed Logics
+### Developed Logics:
 
 #### A) Image Concatenation
 Resizes two images to a specified pixel range and merges them both horizontally and vertically, displaying the results in separate windows.
@@ -134,12 +134,12 @@ Removes noise and closes gaps in an image using morphological operations.
   <br>
    <img src="https://github.com/user-attachments/assets/45331561-a398-42fd-9139-70ab4c96eace" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/e0b3bd6f-d68d-4dc6-a5bb-8fa263061576" alt="concat" width="400" style="margin-right: 20">
 
-## Video Processing Project Overview
+## Video Processing
 
 ### Libraries and Frameworks Utilized
 - **OpenCV**: Version 4.10.0.84 
 
-### Developed Functionalities
+### Developed Logics:
 
 #### A) Video_multivideo
 Reads and showcases images from a given directory, printing the dimensions of each image to the console for batch image analysis.
@@ -162,7 +162,7 @@ Captures and streams live video feed from the webcam, displaying it in real-time
 - **OpenCV**: Version 4.10.0.84 for advanced image processing
 - **LabelImg**: Version 1.8.6 for image annotation
 
-### Developed Functionalities
+### Developed Logics:
 
 #### A) data_segregate
 Organizes images and label files into separate directories for matched and unmatched pairs, aiding in dataset preparation for ML projects.
@@ -202,7 +202,7 @@ Updates class numbers within label files, enabling easy reclassification in obje
 - **face_recognition**: Version 1.3.0
 - **imutils**: Version 0.5.4
 
-### Developed Logics
+### Developed Logics:
 
 #### A) Face_recognition
 
