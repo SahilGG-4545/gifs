@@ -215,6 +215,14 @@ Updates class numbers within label files, enabling easy reclassification in obje
 ### Developed Logics
 
 #### A) Face_recognition
+
+This program utilizes live video streaming to identify "Sahil Gorde" through face recognition and provide instant feedback.
+1. **Loading and Encoding Reference Data**: A stored image of "Sahil Gorde" is processed and encoded into a set of facial features, serving as a reference for real-time comparison. 
+2. **Camera Initialization**:The program accesses the webcam to capture live video frames for face detection and recognition tasks.  
+3. **Face Matching Logic**: Detected faces in the video are encoded, and their similarity to the reference encoding is measured. A match is confirmed if the calculated distance is below the confidence threshold (0.6).  
+4. **Real-Time Annotation**: Matched faces are marked with a green rectangle and labeled "Sahil," while unmatched faces are displayed with "Not Sahil" for clarity.  
+5. **Live Feedback Loop**:The program displays the annotated video feed in real time and stops processing when 'q' is pressed.
+   
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400" >
@@ -239,7 +247,16 @@ This program uses real-time face recognition to track and record attendance via 
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/0e91cca2-7720-4094-8374-e59a1e458d94" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7ca9fea8-09a5-43aa-9716-76ef24c30e3d" alt="concat" width="400" style="margin-right: 20">
+  
 #### C) test
+This program tracks and logs face recognition in real-time while managing duplicate entries.
+
+1. **Initialization**: Sets up known face encodings, logging DataFrame, and camera capture.  
+2. **Frame Processing**: Skips frames for optimized performance and detects faces in the live video.  
+3. **Recognition Logic**: Identifies "Sahil" based on proximity to known face encodings and draws labels.  
+4. **Time-Based Entry Rules**: Ensures duplicate entries are avoided unless a 5-minute gap occurs.  
+5. **Automatic Data Storage**: Periodically saves attendance logs to an Excel file every 30 seconds.  
+6. **Error Handling and Cleanup**: Safely handles exceptions, saves logs, and releases resources on exit. 
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
@@ -247,6 +264,14 @@ This program uses real-time face recognition to track and record attendance via 
   <br>
   <img src="https://github.com/user-attachments/assets/bade3f80-1aab-47ad-9f8e-296e1d4d269c" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/823edc07-7930-4f82-98d2-b125610576ba" alt="concat" width="400" style="margin-right: 20">
 #### D) tools
+This program identifies and logs the presence of a specific individual, "Sahil," in real-time.
+
+1. **Face Recognition Initialization**: Encodes a known face image for comparison in live video feed.  
+2. **Live Camera Feed**: Captures frames while skipping every second frame to optimize processing.  
+3. **Real-Time Face Detection**: Detects faces and identifies Sahil using a confidence threshold.  
+4. **Dynamic Data Logging**: Saves recognition details (name, date, time) to an Excel file after five detections.  
+5. **On-Screen Labels**: Displays labels "Sahil" or "Not Sahil" based on recognition results in the video feed.  
+6. **Final Data Storage**: Ensures attendance data is saved when the program exits.  
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400">
@@ -282,6 +307,15 @@ This program captures webcam video, performs real-time face recognition for "Sah
   <br>
    <img src="https://github.com/user-attachments/assets/ed12e6a8-85b2-4486-a51d-cb97c943b9d8" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/0cdc0daa-1e31-473f-934e-e42bb1f5d41c" alt="concat" width="400" style="margin-right: 20">
 #### G) landmark
+This program combines face recognition, facial landmark detection, and attentiveness analysis to monitor real-time behavior.
+
+1. **Setup**: Initializes facial detection, landmark predictor, and loads "Sahil's" face encoding.  
+2. **Camera Stream**: Captures live video, processing alternate frames for efficiency.  
+3. **Face Recognition**: Matches detected faces with "Sahil" based on encoding distance.  
+4. **Attentiveness Analysis**: Calculates head pose and evaluates attentiveness using yaw and pitch.  
+5. **Logging**: Saves screenshots and logs recognition details in an Excel file (`landmark.xlsx`).  
+6. **Display and Cleanup**: Shows live feedback and terminates with 'q', releasing resources and saving logs.
+7. 
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
