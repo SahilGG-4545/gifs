@@ -31,26 +31,35 @@ Identifies contours in a grayscale image using a binary threshold and `cv2.findC
 Extracts and displays a defined region of an image based on specified pixel coordinates.
 - **Input**:
 - **Output**:
-
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 #### D) Image Dilation & Erosion
 Performs morphological operations to enlarge and shrink image features, enhancing and reducing specific areas respectively.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### E) Edge Detection
 Uses the Canny edge detection algorithm to highlight edges within a grayscale image.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### F) Histogram Equalization
 Improves the contrast of a grayscale image through histogram equalization.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### G) HSV Conversion
 Converts a color image from the BGR format to the HSV color space.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### H) Morphological Transformations
 Applies opening and closing operations on a grayscale image to minimize noise and fill small gaps.
@@ -61,6 +70,8 @@ Applies opening and closing operations on a grayscale image to minimize noise an
 Adjusts the dimensions of an image according to specified width and height.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### J) RGB to Grayscale Conversion
 Transforms a color image to a grayscale representation.
@@ -71,16 +82,22 @@ Transforms a color image to a grayscale representation.
 Rotates an image 90 degrees around its center point.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### L) Image Blurring
 Applies a Gaussian blur to an image to reduce noise and soften details.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### M) Noise Removal & Gap Closing
 Removes noise and closes gaps in an image using morphological operations.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 ## Video Processing Project Overview
 
