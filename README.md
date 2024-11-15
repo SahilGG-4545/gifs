@@ -177,17 +177,31 @@ Captures and streams live video feed from the webcam, displaying it in real-time
 #### A) data_segregate
 Organizes images and label files into separate directories for matched and unmatched pairs, aiding in dataset preparation for ML projects.
 - **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/f2b358cf-261e-47de-86d9-e04096c421ac" alt="concat" width="400" style="margin-right: 20">
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/a0b7f7b0-9e0c-447b-a261-ad0642b266fc" alt="concat" width="400" style="margin-right: 20">   <img src="https://github.com/user-attachments/assets/180c5f6b-a40c-46f2-ac49-8ed0a74644da" alt="concat" width="400" style="margin-right: 20">
 
 #### B) label
 Draws bounding boxes on images based on annotation data, useful for visualizing object detection outcomes.
 - **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
+
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### C) label_manipulate
 Updates class numbers within label files, enabling easy reclassification in object detection tasks.
 - **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
+
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 ## Face Recognition Project
 
