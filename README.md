@@ -32,7 +32,7 @@ Extracts and displays a defined region of an image based on specified pixel coor
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/024e0b9a-63e5-4a88-a20b-594eea153fe6" alt="concat" >
 #### D) Image Dilation & Erosion
 Performs morphological operations to enlarge and shrink image features, enhancing and reducing specific areas respectively.
 - **Input**:
