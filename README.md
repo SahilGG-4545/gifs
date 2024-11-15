@@ -117,7 +117,7 @@ Applies a Gaussian blur to an image to reduce noise and soften details.
   <br>
   <img src="https://github.com/user-attachments/assets/42e5dc7e-fb6c-4fd6-8d65-f7b3f4cb6666" alt="concat" >
 
-#### M)Template
+#### M) Template
 This function performs template matching to locate a template image within a larger image.
 - **Input**:
   <br>
