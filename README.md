@@ -222,16 +222,17 @@ Updates class numbers within label files, enabling easy reclassification in obje
   <br>
   <img src="https://github.com/user-attachments/assets/0811adff-cec4-4f51-940e-e1a5ee6d496b" alt="concat" width="400" style="margin-right: 20">
 #### B) Attendence_save
+**Overview**
+This program uses real-time face recognition to track and record attendance via a webcam. It saves recognized face details in an Excel file after detecting a set number of matches.
 
-Here’s the updated explanation with numbered points:
+**Features**
+1. **Loading Known Face**: Loads a known image and extracts facial encodings for comparison.
+2. **Camera Initialization**: Captures video from the webcam, processing every second frame to improve performance.
+3. **Face Detection and Recognition**: Detects faces in each frame and compares them with the known face encoding. If a match is found, it draws a rectangle around the face and labels it.
+4. **Attendance Recording**: If recognized, the name, date, and time are recorded in a DataFrame (`df`). After 5 recognitions, the data is saved to an Excel file (`attendence_Save.xlsx`) and the counter resets.
+5. **Real-time Display**: The processed video stream is displayed with face bounding boxes, and "Not Recognized" is shown if no match is found.
+6. **Termination**: The video feed stops when the 'q' key is pressed, and any remaining data is saved to the Excel file before the program ends.
 
-This script uses OpenCV and face_recognition to detect and recognize a specific face (his/her) from a webcam feed. Upon recognition, the attendance (name, date, time) is logged into an Excel file. The script processes every second frame, saves data every 5 recognitions, and resets the logging process. The attendance information is stored in a DataFrame and periodically exported to an Excel file.
-
-**Key Features**:
-Real-time face detection and recognition.
-Logs attendance (name, date, time) in an Excel file.
-Saves attendance data after every 5 recognized faces.
-Resets the recognition count and data logging after each export to prevent multiple entries in a short time period.
 
 - **Input**:
   <br>
