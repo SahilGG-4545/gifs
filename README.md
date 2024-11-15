@@ -56,12 +56,12 @@ Transforms a color image to a grayscale representation.
 - **Input**:
 - **Output**:
 
-### K) Image Rotation
+#### K) Image Rotation
 Rotates an image 90 degrees around its center point.
 - **Input**:
 - **Output**:
 
-### L) Image Blurring
+#### L) Image Blurring
 Applies a Gaussian blur to an image to reduce noise and soften details.
 - **Input**:
 - **Output**:
