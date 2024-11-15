@@ -215,12 +215,65 @@ Updates class numbers within label files, enabling easy reclassification in obje
 ### Developed Logics
 
 #### A) Face_recognition
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### B) Attendence_save
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### C) test
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### D) tools
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### E) excel_sc
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### F) excel_sc_dt
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### G) landmark
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### H) atten_score
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 #### I) avg_atten_score
-
+- **Input**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
