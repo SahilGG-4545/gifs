@@ -20,7 +20,12 @@ Resizes two images to a specified pixel range and merges them both horizontally 
 #### B) Image Contour Detection
 Identifies contours in a grayscale image using a binary threshold and `cv2.findContours()`. Draws these contours on the original image in green.
 - **Input**:
+  <br>
+   <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
+
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
 
 #### C) Image Cropping
 Extracts and displays a defined region of an image based on specified pixel coordinates.
