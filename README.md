@@ -75,7 +75,7 @@ Converts a color image from the BGR format to the HSV color space.
 Applies opening and closing operations on a grayscale image to minimize noise and fill small gaps.
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/0cd0e1c2-b376-436d-9013-76230b042590" alt="concat" >
