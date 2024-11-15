@@ -290,6 +290,14 @@ This program uses real-time face recognition and head pose analysis to evaluate 
   <br>
    <img src="https://github.com/user-attachments/assets/b5f07bf2-924b-46f3-a53a-e243b7e04afe" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/ec597cfe-8672-49be-85d8-a924db844cfb" alt="concat" width="400" style="margin-right: 20">
 #### I) avg_atten_score
+This program uses face recognition and head pose analysis to evaluate attentiveness, saving the results in an Excel file with average attention scores.
+
+1. **Face Recognition**: Matches faces against a known image (e.g., Barack Obama).
+2. **Head Pose Analysis**: Detects head yaw and pitch to evaluate attentiveness.
+3. **Attentiveness Score**: Calculates an attention score based on head orientation.
+4. **Screenshot Capture**: Saves screenshots when the user is attentive.
+5. **Data Logging**: Logs recognition and attentiveness data into an Excel file.
+6. **Average Score**: Computes and logs the average attentiveness score over time.
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
