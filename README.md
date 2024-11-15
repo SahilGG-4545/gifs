@@ -187,7 +187,7 @@ Organizes images and label files into separate directories for matched and unmat
 Draws bounding boxes on images based on annotation data, useful for visualizing object detection outcomes.
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/d2f07d2e-28c6-432e-b069-450117a8f2c3" alt="concat" width="400" style="margin-right: 20">
+  <img src="https://github.com/user-attachments/assets/d2f07d2e-28c6-432e-b069-450117a8f2c3" alt="concat">
 
 - **Output**:
   <br>
@@ -197,11 +197,11 @@ Draws bounding boxes on images based on annotation data, useful for visualizing 
 Updates class numbers within label files, enabling easy reclassification in object detection tasks.
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
+  <img src="https://github.com/user-attachments/assets/a7d278a2-0273-4132-bda3-6551733cc2e3" alt="concat" width="400" style="margin-right: 20">
 
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/0fec7f48-512a-493a-aae1-18e033216a87" alt="concat" width="400" style="margin-right: 20">   <img src="https://github.com/user-attachments/assets/bd51289a-aaa8-419c-87f6-728220d6d130" alt="concat" width="400" style="margin-right: 20">
 
 ## Face Recognition Project
 
