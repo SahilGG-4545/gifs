@@ -14,7 +14,7 @@ Resizes two images to a specified pixel range and merges them both horizontally 
 
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/1499a03e-3496-447c-95eb-cb59248586d3" alt="concat" width="400">
+  <img src="https://github.com/user-attachments/assets/1499a03e-3496-447c-95eb-cb59248586d3" alt="concat" >
 
 
 #### B) Image Contour Detection
