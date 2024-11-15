@@ -222,6 +222,16 @@ Updates class numbers within label files, enabling easy reclassification in obje
   <br>
   <img src="https://github.com/user-attachments/assets/0811adff-cec4-4f51-940e-e1a5ee6d496b" alt="concat" width="400" style="margin-right: 20">
 #### B) Attendence_save
+##### Overview
+This program uses real-time face recognition to track and record attendance via a webcam. It saves recognized face details in an Excel file after detecting a set number of matches.
+##### Features
+- **Loading Known Face**: Loads a known image and extracts facial encodings for comparison.
+- **Camera Initialization**: Captures video from the webcam, processing every second frame to improve performance.
+- **Face Detection and Recognition**: Detects faces in each frame and compares them with the known face encoding. If a match is found, it draws a rectangle around the face and labels it.
+- **Attendance Recording**: If recognized, the name, date, and time are recorded in a DataFrame (`df`). After 5 recognitions, the data is saved to an Excel file (`attendence_Save.xlsx`) and the counter resets.
+- **Real-time Display**: The processed video stream is displayed with face bounding boxes, and "Not Recognized" is shown if no match is found.
+- **Termination**: The video feed stops when the 'q' key is pressed, and any remaining data is saved to the Excel file before the program ends.
+
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400">
