@@ -143,28 +143,18 @@ Removes noise and closes gaps in an image using morphological operations.
 
 #### A) Video_multivideo
 Reads and showcases images from a given directory, printing the dimensions of each image to the console for batch image analysis.
-- **Input**:
-- **Output**:
 
 #### B) Video_fps
 A real-time video capture function that displays a live video feed while calculating and showing the frames per second (FPS) for performance monitoring.
-- **Input**:
-- **Output**:
 
 #### C) Video_save
 Captures live video from the webcam and writes it to a specified output file, allowing easy recording and saving of video content.
-- **Input**:
-- **Output**:
 
 #### D) Video_stack
 Reads two separate video files, resizes them, and combines them side by side for synchronized dual-video playback, ideal for comparing footage.
-- **Input**:
-- **Output**:
 
 #### E) Video_stream
 Captures and streams live video feed from the webcam, displaying it in real-time. Useful for basic video streaming applications.
-- **Input**:
-- **Output**:
 
 ## Annotations Project Overview
 
