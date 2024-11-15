@@ -1,10 +1,10 @@
-# Image Processing Project
-
-## Libraries or Frameworks Used
+# Sahil-Gorde_AI-Enhanced-Engagement-Tracker-for-Young-Learners_-Infosys_Internship_Oct2024
+## Image Processing
+### Libraries or Frameworks Used
 - **OpenCV**: Version 4.10.0.84
 - **NumPy**: For array manipulation
 
-## Developed Logics
+### Developed Logics
 
 ### A) Image Concatenation
 Resizes two images to a specified pixel range and merges them both horizontally and vertically, displaying the results in separate windows.
