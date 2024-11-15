@@ -254,6 +254,13 @@ This program uses real-time face recognition to track and record attendance via 
   <br>
    <img src="https://github.com/user-attachments/assets/d4b5b22f-3efe-46b2-a0ba-28012cdb44c7" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/13adc74e-1840-4179-b07b-922eb65ceb1e" alt="concat" width="400" style="margin-right: 20">
 #### E) excel_sc
+
+This program recognizes a specific person (e.g., "Sahil Gorde") using face recognition and logs the details along with screenshots at set intervals.
+1. **Face Recognition**: Detects faces and compares them with a known image.
+2. **Screenshot Capture**: Saves screenshots of recognized faces at defined intervals (every 2 minutes or after a 5-minute gap).
+3. **Data Logging**: Logs recognition data (name, date, time, screenshot path) in an Excel file.
+4. **Efficiency**: Processes every other frame to reduce CPU usage.
+5. **Face Labeling**: Labels recognized faces as "Sahil" and others as "Not Sahil".
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
@@ -261,6 +268,13 @@ This program uses real-time face recognition to track and record attendance via 
   <br>
    <img src="https://github.com/user-attachments/assets/bd050cbe-2b43-4483-acd5-891588f5f0d6" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/bb49ffb5-265c-47e9-8e20-55dcc2f2b1ee" alt="concat" width="400" style="margin-right: 20">
 #### F) excel_sc_dt
+
+This program captures webcam video, performs real-time face recognition for "Sahil Gorde," saves screenshots, and logs attendance details into an Excel file.
+1. **Face Detection and Encoding**:Loads a pre-saved image of "Sahil Gorde," encodes it, and compares it with faces detected in the live webcam feed.  
+2. **Recognition Logic**:Uses a confidence threshold to determine if the detected face matches the known encoding. Faces are recognized and logged every 2 minutes, with a 5-minute gap for repeat entries.  
+3. **Screenshot Saving**:Captures screenshots of recognized faces with the current date and time, overlays the timestamp, and stores them in a dedicated directory (`screenshots`).  
+4. **Attendance Logging**:Logs recognition details, including name, date, time, and screenshot file path, into an Excel file (`excel_sc_dt.xlsx`) for easy access.  
+5. **Real-Time Feedback**:Displays a live video feed with bounding boxes around detected faces, labeling recognized faces as "Sahil" and others as "Not Sahil."  
 - **Input**:
   <br>
   <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400">
