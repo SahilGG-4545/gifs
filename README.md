@@ -38,66 +38,71 @@ Performs morphological operations to enlarge and shrink image features, enhancin
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/b8e6db86-6068-456a-9016-80b7b9c2b57f" alt="concat" >
 
 #### E) Edge Detection
 Uses the Canny edge detection algorithm to highlight edges within a grayscale image.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/c26bbde4-a0b7-41a7-9baa-8a92a08e2737" alt="concat" >
 
 #### F) Histogram Equalization
 Improves the contrast of a grayscale image through histogram equalization.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/2fa2b140-0bc0-441d-bb7c-a27e3139ebc1" alt="concat" >
 
 #### G) HSV Conversion
 Converts a color image from the BGR format to the HSV color space.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/a870db5e-b6a9-4087-86f5-0df84d317143" alt="concat" >
 
 #### H) Morphological Transformations
 Applies opening and closing operations on a grayscale image to minimize noise and fill small gaps.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/45331561-a398-42fd-9139-70ab4c96eace" alt="concat" >  <img src="https://github.com/user-attachments/assets/e0b3bd6f-d68d-4dc6-a5bb-8fa263061576" alt="concat" >
+
 
 #### I) Image Resizing
 Adjusts the dimensions of an image according to specified width and height.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/9b5c1da2-5b12-4178-b447-fb9462efe1a6" alt="concat" >
 
 #### J) RGB to Grayscale Conversion
 Transforms a color image to a grayscale representation.
 - **Input**:
 - **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/d82d2fc3-3312-4059-a4ae-4a3b28f6260d" alt="concat" >
 
 #### K) Image Rotation
 Rotates an image 90 degrees around its center point.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/e9856754-fca9-4b09-82fc-02fed03df3d2" alt="concat" >
 
 #### L) Image Blurring
 Applies a Gaussian blur to an image to reduce noise and soften details.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/42e5dc7e-fb6c-4fd6-8d65-f7b3f4cb6666" alt="concat" >
 
-#### M) Noise Removal & Gap Closing
-Removes noise and closes gaps in an image using morphological operations.
+#### M)Template
+This function performs template matching to locate a template image within a larger image.
 - **Input**:
 - **Output**:
   <br>
-  <img src="https://github.com/user-attachments/assets/dc9fc404-2834-4444-a72b-bcca7013123e" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/375edbaf-4e30-48d0-a8cc-df1348bfe16a" alt="concat" >
 
 ## Video Processing Project Overview
 
