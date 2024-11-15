@@ -56,7 +56,7 @@ Uses the Canny edge detection algorithm to highlight edges within a grayscale im
 #### F) Histogram Equalization
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/95509430-7e72-4b07-b985-bebab9ae09cb" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/2fa2b140-0bc0-441d-bb7c-a27e3139ebc1" alt="concat" >
