@@ -217,63 +217,63 @@ Updates class numbers within label files, enabling easy reclassification in obje
 #### A) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/0811adff-cec4-4f51-940e-e1a5ee6d496b" alt="concat" width="400" style="margin-right: 20">
 #### B) Attendence_save
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400">
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/0e91cca2-7720-4094-8374-e59a1e458d94" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7ca9fea8-09a5-43aa-9716-76ef24c30e3d" alt="concat" width="400" style="margin-right: 20">
 #### C) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
 - **Output**:
   <br>
   <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### D) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400">
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### E) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### F) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat"  width="400">
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### G) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### H) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
 #### I) Face_recognition
 - **Input**:
   <br>
-  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" >
+  <img src="https://github.com/user-attachments/assets/bcbaf22b-ace0-4794-a299-b3db04b82e01" alt="concat" width="400" >
 - **Output**:
   <br>
    <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400" style="margin-right: 20"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400" style="margin-right: 20">
