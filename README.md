@@ -8,9 +8,11 @@
 
 #### A) Image Concatenation
 Resizes two images to a specified pixel range and merges them both horizontally and vertically, displaying the results in separate windows.
-- **Input**: <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400">
+- **Input**:
+   <img src="https://github.com/user-attachments/assets/488a9a57-3ead-4da9-ac7a-c586b4f9d6a9" alt="concat" width="400"> <img src="https://github.com/user-attachments/assets/7a649422-b004-493b-b602-5333a2cf9d21" alt="concat" width="400">
 
 - **Output**:
+  <br>
   <img src="https://github.com/user-attachments/assets/1499a03e-3496-447c-95eb-cb59248586d3" alt="concat" width="400">
 
 
